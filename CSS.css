@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+p { color:#FFF ; font-family:Verdana, Geneva, sans-serif;
+font-size:16px;
+line-height:18px;
+width:600px;
+background-color:#96C;
+padding:20px;}
+h1, h2 { font-family:Georgia, "Times New Roman", Times, serif; 
+color: #666;}
+img { height:500px ; width:auto}
+.slike { width:560px ; height:315px }
+.slike2 {width:560px; height: 420px}
+.slike3 { width:480px }
+.slike4 { width:430px} 
+.pozadina { background-color:#9CC}
+.pozadina2{ background-color:#9CF}
+.pozadina3{ background-color:#CCF}
+.pozadina4{ background-color:#FCF}
+.nav { font-size:18px }
+a:link{ color:black;
+background-color:#0CC;
+padding:5px;
+line-height:40px;
+border:1px solid #00000000}
+a:hover{background-color:darkgray;}
